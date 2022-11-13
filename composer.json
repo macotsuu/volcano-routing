@@ -1,0 +1,16 @@
+{
+    "name": "volcano/routing",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Volcano\\Routing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dominik Szamburski",
+            "email": "dominikszamburski99@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
